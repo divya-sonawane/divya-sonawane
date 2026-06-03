@@ -1,11 +1,11 @@
 # 💫 Hi 👋, I'm Ashwini Sonawane
-**A Aspiring Data analyst || Data Engineer || India**
+**A AI Engineer || Aspiring Data analyst || Data Engineer || India**
 
 Aspiring Data Analyst passionate about transforming raw data into meaningful insights. Actively seeking fresher opportunities to apply analytical tools, databases, and data technologies in real-world business scenarios.
 
 Email Me 👉 ✉️ **ashwinisonawane882@gmail.com** For Collaboration/Project or Anything Else. 😊
 
-- 🔭 **I’m currently working on:** Data Analysis & Dashboard projects using Power BI, SQL, Excel and Python
+- 🔭 **I’m currently working on:**AI Projects, Data Analysis & Dashboard projects using Power BI, SQL, Excel and Python
 - 🌱 **I’m currently learning:** Advanced SQL, Data Engineering concepts, Generative AI, and Cloud basics.
 - 👯 **I’m looking to collaborate on:** Data Analytics, BI Dashboards, and Data Engineering projects
 - 💬 **Ask me about:** Collaboration, Tech Support, Power BI, SQL.
